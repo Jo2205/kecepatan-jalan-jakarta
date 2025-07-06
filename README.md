@@ -30,7 +30,7 @@ Dengan pendekatan ini, proyek ini menjadi contoh penerapan data science untuk is
 # 1. Clone Repository dan Masuk Folder
 ```bash
 git clone https://github.com/Jo2205/kecepatan-jalan-jakarta.git
-cd kecepan-jalan-jakarta
+cd kecepatan-jalan-jakarta
 ```
 
 # 2. Install Library
@@ -47,6 +47,6 @@ streamlit run app.py
 Output akhir dari proyek ini berupa dashboard interaktif Streamlit yang memungkinkan pengguna melihat tren kecepatan lalu lintas, menemukan titik kemacetan tertinggi, dan memprediksi kecepatan rata-rata untuk hari berikutnya secara otomatis menggunakan machine learning.
 
 # Contoh Tampilan Aplikasi
-https://github.com/Jo2205/tije-recomendation/blob/main/output/rekomendasi_1.png?raw=true
+(https://github.com/Jo2205/kecepatan-jalan-jakarta/blob/main/output/prediksi.png?raw=true)
 
 Proyek ini saya kembangkan sebagai bagian dari portofolio data science dan dapat dijadikan referensi dalam pengembangan sistem berbasis data untuk transportasi publik.
