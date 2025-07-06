@@ -49,4 +49,3 @@ Output akhir dari proyek ini berupa dashboard interaktif Streamlit yang memungki
 # Contoh Tampilan Aplikasi
 (https://github.com/Jo2205/kecepatan-jalan-jakarta/blob/main/output/prediksi.png?raw=true)
 
-Proyek ini saya kembangkan sebagai bagian dari portofolio data science dan dapat dijadikan referensi dalam pengembangan sistem berbasis data untuk transportasi publik.
